@@ -1,1 +1,1 @@
-# ConcurrentAssignment3
+# Concurrent programming assignment
